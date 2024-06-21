@@ -1,7 +1,7 @@
 n = int(input())
 largest = 0
 largest2 = 0
-for _ in range(n):
+for _ in rangerange(n):
     m = int(input())
     if m >= largest:
         largest2 = largest
